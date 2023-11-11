@@ -41,6 +41,7 @@ vdo.addEventListener("mouseenter",function(){
   crsr.style.textAlign = "center"
   crsr.style.paddingTop = "6px"
   crsr.style.borderRadius = "30px"
+  crsr.style.color = "black"
 })
 vdo.addEventListener("mouseleave",function(){
   crsr.textContent = ""
