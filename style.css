@@ -94,8 +94,7 @@ html, body {
 .page1 h1{
     font-size: 8vw;
     font-weight: 300;
-    font-family: PP mori;
-
+/*     font-family: PP mori; */
     margin-left: 6vw;
     transform-origin: left;
 }
